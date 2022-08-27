@@ -1,4 +1,5 @@
 # aulaDevOps_aula03
 O senhor dos anéis<br>
-Eu sou a lenda<br>
-Pra sempre ao seu lado
+Forest Gump<br>
+Pra sempre ao seu lado<br>
+Guardiões da Galáxia<br>
